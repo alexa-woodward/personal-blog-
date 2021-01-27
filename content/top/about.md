@@ -11,6 +11,6 @@ title: About Me
 
 Hello! I'm Alexa Woodward, PhD Candidate in Epidemiology at the University of Pennsylvania in the [Computational Genetics Laboratory](https://epistasis.org). In my research, I use interpretable machine learning methods on population level data to identify clinically relevant features or combinations of features that can inform potential biomarkers, targets for therapies, or other advancements in precision medicine.
 
-Placeholder XXX
+ - website in progress - 
 
 
